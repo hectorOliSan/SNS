@@ -1,0 +1,5 @@
+# Conclusión:
+
+En los métodos gausianos aplicados a los dos datasets "Vinos tintos" y "Vinos blancos", el modelo tiene un mejor rendimiento en el primer dataset con un **score de 0.54** en comparación con el segundo dataset con un **score de 0.45**. Esto sugiere que el modelo tiene una mejor capacidad para predecir las características de los vinos tintos en comparación con los vinos blancos.
+
+Además, el primer dataset tiene un mejor rendimiento en comparación con el segundo dataset. Esto se puede observar en la matriz de confusión del primer dataset, donde se ve que el número de verdaderos positivos es mayor en comparación con el número de falsos negativos. En cambio, en la matriz de confusión del segundo dataset, se ve que el número de falsos positivos es mayor en comparación con el número de verdaderos negativos. Además, también se puede observar que el primer dataset tiene una mayor cantidad de predicciones correctas que el segundo dataset.
